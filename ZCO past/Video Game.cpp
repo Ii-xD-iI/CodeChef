@@ -45,4 +45,6 @@ int main(){
 /*
 8:46 PM
 10/7/2020 mm/d/yyyy
+
+1st attempt without debugging (except cin.ignore();)
 */
